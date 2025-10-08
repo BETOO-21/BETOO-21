@@ -82,10 +82,6 @@ Bienvenido a mi perfil de GitHub. Tengo 17 años, soy programador junior autodid
 
 ## 📬 Contact
 
-<a href="https://www.linkedin.com/in/pablo-martin-qui%C3%B1onez-gavilan-b27a36383/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="mailto: romeroalberto.rm12345@gmail.com" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
