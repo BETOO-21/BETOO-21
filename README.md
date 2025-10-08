@@ -69,7 +69,7 @@ Bienvenido a mi perfil de GitHub. Tengo 17 años, soy programador junior autodid
 ---
 
 # 📊 Stats
-[![Luis Alberto Romero GitHub stats](https://github.com/BETOO-21)](https://github.com/BETOO-21/github-readme-stats)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GranZeta&layout=compact&theme=radical)
 
 ---
